@@ -1,5 +1,5 @@
 # Maths-formula-
-Money
+Money-maths-grade6
 Profit and loss
 Profit = Sp - Bp
 BP = Sp - P
